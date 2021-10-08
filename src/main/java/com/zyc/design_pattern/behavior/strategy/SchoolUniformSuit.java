@@ -1,4 +1,4 @@
-package com.zyc.design_pattern.strategy;
+package com.zyc.design_pattern.behavior.strategy;
 
 public class SchoolUniformSuit implements Change{
     private static SchoolUniformSuit schoolUniformSuit = new SchoolUniformSuit();

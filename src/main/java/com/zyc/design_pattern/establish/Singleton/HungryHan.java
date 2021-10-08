@@ -1,4 +1,4 @@
-package com.zyc.design_pattern.single;
+package com.zyc.design_pattern.establish.Singleton;
 
 /**
  * 饿汉式单例，jvm保证线程安全，静态变量只会被加载一次

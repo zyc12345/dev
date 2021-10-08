@@ -1,4 +1,4 @@
-package com.zyc.design_pattern.single;
+package com.zyc.design_pattern.establish.Singleton;
 
 /**
  * 懒汉式，初始化默认是null，当真正进行获取实例的时候判断null新增，非null则直接返回。

@@ -1,4 +1,4 @@
-package com.zyc.design_pattern.single;
+package com.zyc.design_pattern.establish.Singleton;
 
 public class TestEnumSingle {
 
