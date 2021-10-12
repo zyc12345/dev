@@ -9,6 +9,6 @@ public class ColourDecorator extends AnimalDecorator{
     @Override
     void decorator() {
         animal.eat();
-        System.out.println("涂上颜色");
+        System.out.print(" 涂上颜色");
     }
 }
