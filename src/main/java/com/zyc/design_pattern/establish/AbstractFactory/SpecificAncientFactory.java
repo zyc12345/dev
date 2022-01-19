@@ -1,5 +1,5 @@
 package com.zyc.design_pattern.establish.AbstractFactory;
-
+// 具体工厂
 public class SpecificAncientFactory extends ModernAbstractFactory{
     @Override
     Eat eat() {
